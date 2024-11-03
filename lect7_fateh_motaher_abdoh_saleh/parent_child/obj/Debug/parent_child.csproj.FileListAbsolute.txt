@@ -1,0 +1,16 @@
+D:\visual studio 2015\C#_Applications_Forms\parent_child\parent_child\bin\Debug\parent_child.exe.config
+D:\visual studio 2015\C#_Applications_Forms\parent_child\parent_child\bin\Debug\parent_child.exe
+D:\visual studio 2015\C#_Applications_Forms\parent_child\parent_child\bin\Debug\parent_child.pdb
+D:\visual studio 2015\C#_Applications_Forms\parent_child\parent_child\obj\Debug\parent_child.csprojResolveAssemblyReference.cache
+D:\visual studio 2015\C#_Applications_Forms\parent_child\parent_child\obj\Debug\parent_child.addform.resources
+D:\visual studio 2015\C#_Applications_Forms\parent_child\parent_child\obj\Debug\parent_child.divform.resources
+D:\visual studio 2015\C#_Applications_Forms\parent_child\parent_child\obj\Debug\parent_child.Form1.resources
+D:\visual studio 2015\C#_Applications_Forms\parent_child\parent_child\obj\Debug\parent_child.multform.resources
+D:\visual studio 2015\C#_Applications_Forms\parent_child\parent_child\obj\Debug\parent_child.Properties.Resources.resources
+D:\visual studio 2015\C#_Applications_Forms\parent_child\parent_child\obj\Debug\parent_child.subform.resources
+D:\visual studio 2015\C#_Applications_Forms\parent_child\parent_child\obj\Debug\parent_child.csproj.GenerateResource.Cache
+D:\visual studio 2015\C#_Applications_Forms\parent_child\parent_child\obj\Debug\parent_child.exe
+D:\visual studio 2015\C#_Applications_Forms\parent_child\parent_child\obj\Debug\parent_child.pdb
+D:\visual studio 2015\C#_Applications_Forms\lect7_fateh_motaher_abdoh_saleh\parent_child\bin\Debug\parent_child.exe.config
+D:\visual studio 2015\C#_Applications_Forms\lect7_fateh_motaher_abdoh_saleh\parent_child\obj\Debug\parent_child.exe
+D:\visual studio 2015\C#_Applications_Forms\lect7_fateh_motaher_abdoh_saleh\parent_child\obj\Debug\parent_child.pdb
